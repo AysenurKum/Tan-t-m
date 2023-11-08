@@ -1,12 +1,18 @@
 * {
-    font-style: italic;text-align: center;background-color:rgb(19, 32, 67); color:rgb(253, 240, 240)
+    font-style: italic;text-align: center;background-color:rgb(19, 32, 67); color:rgb(253, 240, 240);
+    font-size: 20px;
 }
 
 div.baslangicdiv {
     border: 10px dotted ;
     width: 500px;
-    margin:10px 700px ;
+    margin:10px 800px ;
     border-color: rgb(241, 180, 187);
+}
+
+div {
+    border: 5px dotted rgb(241, 180, 187);
+    margin: 50px;
 }
 
 div.div2 {
