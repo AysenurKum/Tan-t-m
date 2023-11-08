@@ -1,3 +1,62 @@
 * {
     font-style: italic;text-align: center;background-color:rgb(19, 32, 67); color:rgb(253, 240, 240)
 }
+
+div.baslangicdiv {
+    border: 10px dotted ;
+    width: 500px;
+    margin:10px 700px ;
+    border-color: rgb(241, 180, 187);
+}
+
+div.div2 {
+    border: 5px dotted rgb(241, 180, 187);
+    padding-bottom: 15px;
+    margin: 50px;
+    }
+
+div.div3 {
+    border: 5px dotted rgb(241, 180, 187);
+    margin: 50px;
+}
+
+div.div4 {
+    border: 5px dotted rgb(241, 180, 187);
+    margin: 50px;
+}
+
+div.div5 {
+    border: 5px dotted rgb(241, 180, 187);
+    margin: 50px;
+}
+
+div.div6 {
+    border: 5px dotted rgb(241, 180, 187);
+    margin: 50px;
+}
+
+div.div7 {
+    border: 5px dotted rgb(241, 180, 187);
+    margin: 50px;
+}
+
+div.div8 {
+    border: 5px dotted rgb(241, 180, 187);
+    margin: 50px;
+}
+
+div.div9 {
+    border: 5px dotted rgb(241, 180, 187);
+    margin: 50px;
+}
+
+div.div10 {
+    border: 5px dotted rgb(241, 180, 187);
+    margin: 50px;
+    padding-bottom: 45px;
+}
+
+div.div11 {
+    border: 5px dotted rgb(241, 180, 187);
+    margin: 50px;
+}
