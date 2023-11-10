@@ -14,12 +14,7 @@ h3{
     font-size: 25px;
 }
 
-div.baslangicdiv {
-    border: 10px dotted ;
-    width: 500px;
-    margin:10px 800px ;
-    border-color: rgb(241, 180, 187);
-}
+
 
 div {
     border: 5px dotted rgb(241, 180, 187);
