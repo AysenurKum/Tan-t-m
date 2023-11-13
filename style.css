@@ -45,3 +45,9 @@ div.div11 {
     margin: 50px;
     padding-bottom: 50px;
 }
+
+div.baslangicdiv {
+    width: 600px;
+    height: 550px;
+    margin-left:35%;
+}
